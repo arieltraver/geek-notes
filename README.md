@@ -1,2 +1,2 @@
-# Geek_Notes
+# Geek-Notes
 Tips and tricks I have picked up along my CS journey.
