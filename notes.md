@@ -44,4 +44,5 @@
 	* Public keys can be configured in the ~/.ssh directory to avoid having to log in every time
 * find: helps locate files which may be any which where on your computer
 	* example: find /Users -name "example.txt"
-
+* gcc: compile a c file into an executable
+	* example: gcc -o "test.c" -Wall -Werror
