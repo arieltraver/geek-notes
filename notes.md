@@ -64,3 +64,5 @@
 	```sh
 	gcc -o "test.c" -Wall -Werror
 	```
+tee: copies output to files 
+    options: -a = append
